@@ -1,9 +1,9 @@
 {
   "mini1_script": {
     "bin": {
-      "version_name": "1.2.1",
-      "version_code": "6",
-      "introduce": "基本功能实现！"
+      "version_name": "2.2.1",
+      "version_code": "1",
+      "introduce": "1. 添加了错误日志发送到邮件的功能；2. 添加了检查更新的功能"
     },
     "img": {
       "date": "2021-11-17"
